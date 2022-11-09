@@ -41,7 +41,7 @@ Only caveat is that screenshots would be taken at your own screen resolution, I 
 More information can be found in: http://cms-outreach.github.io/ispy/
 
 
-# Using Fireworks (takes miniAOD format as input)
+# Using Fireworks (takes miniAOD/AOD/RECO formats as input)
 
 Use edmPickEvents.py to pick the miniAOD events.
 
